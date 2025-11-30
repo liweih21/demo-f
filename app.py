@@ -6,4 +6,4 @@ def home():
     return "Hello Secure DevSecOps Demo!"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="73.223.3.48", port=5000)
